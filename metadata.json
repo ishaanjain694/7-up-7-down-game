@@ -1,0 +1,8 @@
+{
+  "name": "7 Up 7 Down - Multiplayer Dice Arena",
+  "description": "Real-time multiplayer 7 Up 7 Down dice game. Play with friends across devices with in-game chips, live betting tables, and instant sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
